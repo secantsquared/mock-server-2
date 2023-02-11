@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "Chemistry": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    },
+    {
+      "History": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    },
+    {
+      "Math": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    },
+    {
+      "Poopariee": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    },
+    {
+      "PotentPotables": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    },
+    {
+      "Stuff": [
+        {
+          "score": 200,
+          "question": "What chemical elements comprises water?",
+          "answer": "Hydrogen and oxygen"
+        },
+        {
+          "score": 400,
+          "question": "What is the difference between a physical change and a chemical change?",
+          "answer": "A physical change affects the form or appearance of a substance, while a chemical change results in a new substance"
+        },
+        {
+          "score": 600,
+          "question": "What is the chemical formula for carbon dioxide?",
+          "answer": "CO2"
+        },
+        {
+          "score": 800,
+          "question": "What is the process whereby plants use energy from the sun to synthesize carbohydrates from carbon dioxide and water?",
+          "answer": "Photosynthesis"
+        },
+        {
+          "score": 1000,
+          "question": "What is the group of atoms held together by chemical bonds in a molecule?",
+          "answer": "Molecular structure"
+        }
+      ]
+    }
+  ]
+}
